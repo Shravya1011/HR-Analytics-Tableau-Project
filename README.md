@@ -17,7 +17,8 @@ HR dataset containing 1470 employee records including age, department, job role,
 - Attrition by job role
 
 ## Dashboard
-![Dashboard](Dashboard_Screenshot.png)
+
+![Image 09-03-26 at 1 44 PM 2](https://github.com/user-attachments/assets/f279d227-4832-4de0-b6d5-d0d5532c7e0c)
 
 ## Author
 S Shravya Reddy
